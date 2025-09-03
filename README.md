@@ -1,1 +1,29 @@
 # AI-Powered-Email-Phishing-Detector
+
+| -------------------------------- | ---------------------------------------------- |
+| Project Name                     | AI-Powered Email Phishing Detector
+| Team Members and Email Addresses | Jordan Chelsey, Elton Batista, Curtis Jones
+|                                  | jordan.r.chelsey@gmail.com, 
+|                                  | ebatista2022@my.fit.edu, cjones2022@my.fit.edu
+| Faculty Advisor                  | Khaled Slhoub
+| -------------------------------- | ---------------------------------------------  |
+
+
+### First Semester
+
+|                      |                                                                                                                                                                                                                                                                                                                                                                                     |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Plan (Sep 3)         | [Plan](https://cs.fit.edu/~pkc/classes/seniorProjects/plan1.pdf), [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/plan1Pres.pdf)                                                                                                                                                                                                                                      |
+| Milestone 1 (Sep 29) | [Requirement](https://cs.fit.edu/~pkc/classes/seniorProjects/requirement.pdf), [Design](https://cs.fit.edu/~pkc/classes/seniorProjects/design.pdf), [Test](https://cs.fit.edu/~pkc/classes/seniorProjects/test.pdf), [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/milestone1.pdf), [Progress Evaluation](https://cs.fit.edu/~pkc/classes/seniorProjects/eval1.pdf) |
+| Milestone 2 (Oct 27) | [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/milestone3.pdf), [Progress Evaluation](https://cs.fit.edu/~pkc/classes/seniorProjects/eval2.pdf)                                                                                                                                                                                                                      |
+| Milestone 3 (Nov 24) | [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/milestone3.pdf), [Progress Evaluation](https://cs.fit.edu/~pkc/classes/seniorProjects/eval3.pdf)                                                                                                                                                                                                                      |
+
+
+### Second Semester
+
+|                      |                                                                                                                                                                                                                                                                                                                                           |
+| -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Plan (Sep 3)         | [Plan](https://cs.fit.edu/~pkc/classes/seniorProjects/plan2.pdf), [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/plan2Pres.pdf)                                                                                                                                                                                            |
+| Milestone 4 (Sep 29) | [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/milestone4.pdf), [Progress Evaluation](https://cs.fit.edu/~pkc/classes/seniorProjects/eval4.pdf)                                                                                                                                                                            |
+| Milestone 5 (Oct 27) | [Poster](https://cs.fit.edu/~pkc/classes/seniorProjects/poster.pdf), [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/milestone5.pdf), [Progress Evaluation](https://cs.fit.edu/~pkc/classes/seniorProjects/eval5.pdf)                                                                                                       |
+| Milestone 6 (Nov 24) | [User and/or Developer Manual](https://cs.fit.edu/~pkc/classes/seniorProjects/userManual.pdf), [Demo Video](https://cs.fit.edu/~pkc/classes/seniorProjects/demoVideo.jpg), [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/milestone6.pdf), [Progress Evaluation](https://cs.fit.edu/~pkc/classes/seniorProjects/eval6.pdf) |
