@@ -1,17 +1,15 @@
 # AI-Powered-Email-Phishing-Detector
 
-| -------------------------------- | ---------------------------------------------- |
-| Project Name                     | AI-Powered Email Phishing Detector
-| Team Members and Email Addresses | Jordan Chelsey, Elton Batista, Curtis Jones
-|                                  | jordan.r.chelsey@gmail.com, 
-|                                  | ebatista2022@my.fit.edu, cjones2022@my.fit.edu
-| Faculty Advisor                  | Khaled Slhoub
-| -------------------------------- | ---------------------------------------------  |
 
+| Project Name                     | AI-Powered Email Phishing Detector
+|
+| Team Members and Email Addresses | jordan.r.chelsey@gmail.com [Jordan Chelsey], ebatista2022@my.fit.edu [Elton Batista], cjones2022@my.fit.edu [Curtis Jones]
+|
+| Faculty Advisor                  | Khaled Slhoub
+|
 
 ### First Semester
-
-|                      |                                                                                                                                                                                                                                                                                                                                                                                     |
+                                                                                                                                                                                                                                                                                                                                                                                   |
 | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Plan (Sep 3)         | [Plan](https://cs.fit.edu/~pkc/classes/seniorProjects/plan1.pdf), [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/plan1Pres.pdf)                                                                                                                                                                                                                                      |
 | Milestone 1 (Sep 29) | [Requirement](https://cs.fit.edu/~pkc/classes/seniorProjects/requirement.pdf), [Design](https://cs.fit.edu/~pkc/classes/seniorProjects/design.pdf), [Test](https://cs.fit.edu/~pkc/classes/seniorProjects/test.pdf), [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/milestone1.pdf), [Progress Evaluation](https://cs.fit.edu/~pkc/classes/seniorProjects/eval1.pdf) |
