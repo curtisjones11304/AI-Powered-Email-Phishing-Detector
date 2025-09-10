@@ -26,7 +26,7 @@
 | Milestone 6 (Nov 24) | [User and/or Developer Manual](https://cs.fit.edu/~pkc/classes/seniorProjects/userManual.pdf), [Demo Video](https://cs.fit.edu/~pkc/classes/seniorProjects/demoVideo.jpg), [Presentation](https://cs.fit.edu/~pkc/classes/seniorProjects/milestone6.pdf), [Progress Evaluation](https://cs.fit.edu/~pkc/classes/seniorProjects/eval6.pdf) |
 
 ### Example Demo UI
-<img width="648" height="446" alt="image" src="https://github.com/user-attachments/assets/d447534d-fc8d-49a6-8f24-49e69aa8b7d7" />
+<img width="648" height="446" alt="image" src="https://github.com/curtisjones11304/AI-Powered-Email-Phishing-Detector/blob/main/phishing%20UI.png" />
 
 ### Functional Goals
 **Analyze Emails in Detail**
